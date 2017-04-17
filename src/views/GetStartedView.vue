@@ -5,7 +5,7 @@
         <img src="public/v.png">
       </v-card-text>
     </v-card>
-    <p class="text-xs-center">Welcome to the Vuetify Webpack-SSR Template</p>
+    <p class="text-xs-center">Vue + Webpack-SSR Template</p>
     <h2 class="primary--text">Important Links</h2>
     <div class="intro">
       <v-list>
