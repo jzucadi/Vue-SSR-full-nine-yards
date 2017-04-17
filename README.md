@@ -15,5 +15,3 @@ npm install
 # yarn
 yarn
 ```
-
-For additional information, please visit the [Official Documentation](https://vuetifyjs.com).
