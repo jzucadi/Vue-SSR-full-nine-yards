@@ -26,7 +26,7 @@
     data () {
       return {
         item: {
-          text: 'Get Started'
+          text: 'Here we go!'
         }
       }
     }
