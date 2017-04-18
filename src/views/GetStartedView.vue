@@ -42,14 +42,14 @@
         <v-list-item>
           <v-list-tile href="http://vuejs.org" target="_blank">
             <v-list-tile-title>
-              Vue Documentation
+              Here is some Documentation
             </v-list-tile-title>
           </v-list-tile>
         </v-list-item>
         <v-list-item>
             <v-list-tile href="https://github.com/vuejs/awesome-vue" target="_blank">
               <v-list-tile-title>
-                Vue Awesome
+                more itemsVue Awesome
               </v-list-tile-title>
             </v-list-tile>
         </v-list-item>
