@@ -12,7 +12,7 @@
         <v-list-item>
           <v-list-tile href="http://vuetifyjs.com" target="_blank">
             <v-list-tile-title>
-              Vuetify Documentation
+               Documentation
             </v-list-tile-title>
           </v-list-tile>
         </v-list-item>
