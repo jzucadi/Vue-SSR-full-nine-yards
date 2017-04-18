@@ -5,8 +5,8 @@
         <img src="public/v.png">
       </v-card-text>
     </v-card>
-    <p class="text-xs-center">Vue + Webpack-SSR Template</p>
-    <h2 class="primary--text">Important Links</h2>
+    <p class="text-xs-center">Vue, Webpack, SSR Template</p>
+    <h2 class="primary--text">You may want these</h2>
     <div class="intro">
       <v-list>
         <v-list-item>
